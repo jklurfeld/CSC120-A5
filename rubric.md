@@ -38,9 +38,9 @@ YES 1 pt: The program displays a default message if none is supplied.
 
 ## Kudos:
 
-_____ (Kudos!) Banner is printed as a speech bubble with correct alignment
+NO (Kudos!) Banner is printed as a speech bubble with correct alignment
 
-_____ (Kudos!) Boots are mirror images of one another
+YES (Kudos!) Boots are mirror images of one another
 
 
 
@@ -62,6 +62,6 @@ YES 2 pt: Complies with style guidelines (missing items 1 pt each):
 
       YES Methods avoid confusing side effects
 
-_____ 1 pt: All required files included with submission (including completed `rubric.md` file)
+YES 1 pt: All required files included with submission (including completed `rubric.md` file)
 
 YES 1 pt: `reflection.md` contains your reflection on the assignment
