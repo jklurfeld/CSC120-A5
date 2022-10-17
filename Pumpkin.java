@@ -1,12 +1,12 @@
-/*
- * Pumpkin class (template)
+/**
+ * Pumpkin class
  * Assignment 5: Bringing it All Together
- * @author R. Jordan Crouser + CSC120 (Fall '22))
- * @version 13 October 2022
+ * @author Jessica Klurfeld R. Jordan Crouser + CSC120 (Fall '22))
+ * @version 16 October 2022
  */
 public class Pumpkin {
     
-    /*
+    /**
      * Prints ASCII art depicting a jack-o'-lantern to the console
      */
     public void display() {
@@ -23,7 +23,7 @@ public class Pumpkin {
 
     }
     
-    /* main method (for testing) */
+    /** main method (for testing) */
     public static void main(String[] args) {
         Pumpkin myPumpkin = new Pumpkin();
         myPumpkin.display();

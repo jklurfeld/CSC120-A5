@@ -90,7 +90,7 @@ _Hint 2: Remember the difference between `System.out.println(...)` and `System.o
 Now that each part is working individually, assemble them together inside the `Scarecrow` class!
 
 ### Step 3: Adding the banner.
-Once your Scarecrow is looking good, now it's time to add a decorative `Banner` that we can customize with a message. Unline the other classes representing parts of the `Scarecrow`, the `Banner` class **will** have a constructor which will take a `String` as a parameter that contains the message we want to print on the banner. You can stylize the banner however you like, but it should **resize** to fit the message. For example:
+Once your Scarecrow is looking good, now it's time to add a decorative `Banner` that we can customize with a message. Unlike the other classes representing parts of the `Scarecrow`, the `Banner` class **will** have a constructor which will take a `String` as a parameter that contains the message we want to print on the banner. You can stylize the banner however you like, but it should **resize** to fit the message. For example:
 
 ```
    ****************************
@@ -100,16 +100,16 @@ Once your Scarecrow is looking good, now it's time to add a decorative `Banner` 
    ********************     ***
                       *******
                       
-               ****************
+               ****************    //16
              *** ~~~~~~~~~~~~ ***
-            *** ~  I <3 CSC! ~ ***
+            *** ~  I <3 CSC! ~ *** //9
              *** ~~~~~~~~~~~~ ***
                ********     ***
                       *******
                       
-                     **********
+                     **********      //10
                    *** ~~~~~~ ***
-                  *** ~  HI! ~ ***
+                  *** ~  HI! ~ ***   //3
                    *** ~~~~~~ ***
                      **     ***
                       *******
